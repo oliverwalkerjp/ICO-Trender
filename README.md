@@ -21,6 +21,7 @@ such as DEX Tool and more.
 
 ## Features
 
+* Proxies Checker, select the good and delete the bad
 * Clicks All Social Media/Network Links
 * Clicks Presale Address Links
 * Clicks Token / Contract Links
@@ -30,8 +31,10 @@ such as DEX Tool and more.
 
 ## ScreenShot
 
+!(Start Bot)[hhttps://i.imgur.com/9qprRbz.jpg "Start Bot Screen"]
+!(Next Bot)[hhttps://i.imgur.com/DNHavAG.jpg "Next Bot Screen"]
+!(Browser Bot)[hhttps://i.imgur.com/Ae93smi.jpg "Browser List Bot Screen"]
 
-!(Start Bot)[https://i.imgur.com/9qprRbz.jpg]
 
 ## Video
 
