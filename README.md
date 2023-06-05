@@ -31,7 +31,7 @@ such as DEX Tool and more.
 ## ScreenShot
 
 
-!(image)[https://imgur.com/9qprRbz]
+!(Start Bot)[https://i.imgur.com/9qprRbz.jpg]
 
 ## Video
 
