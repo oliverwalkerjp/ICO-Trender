@@ -31,9 +31,11 @@ such as DEX Tool and more.
 
 ## ScreenShot
 
-!(Start Bot)[hhttps://i.imgur.com/9qprRbz.jpg "Start Bot Screen"]
-!(Next Bot)[hhttps://i.imgur.com/DNHavAG.jpg "Next Bot Screen"]
-!(Browser Bot)[hhttps://i.imgur.com/Ae93smi.jpg "Browser List Bot Screen"]
+![Start Bot](https://i.imgur.com/9qprRbz.jpg "Start Bot Screen")
+
+![Next Bot](https://i.imgur.com/ApfUjKe.jpg "Next Bot Screen")
+
+![Browser Bot](https://i.imgur.com/OSsq5PI.jpg "Browser List Bot Screen")
 
 
 ## Video
