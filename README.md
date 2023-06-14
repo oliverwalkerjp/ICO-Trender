@@ -4,6 +4,10 @@ ICO Trender is an **ICO Trending** Bot. which trend your project to #1 on **PINK
 This Software only support **PINKSALE** for now, with the support of the public and buyers other Platforms will be added in the future.
 such as DEX Tool and more.
 
+## Disclaimer
+
+This Software was created for good purposes and personal use only. Provided "AS IS" without warranty of any kind. Use this program at your own risk. The use is complete responsibility of the end user. The developers assume no liability and are not responsible for any misuse or damage caused by this program. 
+
 ## How to install
 
 * Click on **ICOTrender.exe** File
