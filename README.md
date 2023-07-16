@@ -35,14 +35,11 @@ This Software was created for good purposes and personal use only. Provided "AS 
 
 ## ScreenShot
 
-![Start Bot](https://i.imgur.com/9qprRbz.jpg "Start Bot Screen")
-
-![Next Bot](https://i.imgur.com/ApfUjKe.jpg "Next Bot Screen")
-
-![Browser Bot](https://i.imgur.com/OSsq5PI.jpg "Browser List Bot Screen")
+![Start Bot](https://i.imgur.com/9qprRbz.jpg "Start Bot Screen")  ![Next Bot](https://i.imgur.com/ApfUjKe.jpg "Next Bot Screen")  ![Browser Bot](https://i.imgur.com/OSsq5PI.jpg "Browser List Bot Screen")
 
 
 ## Video
+[![ICO Trender - PINKSALE TRENDING BOT](https://img.youtube.com/vi/Ymfgi8533UI/mqdefault.jpg)](https://www.youtube.com/watch?v=Ymfgi8533UI "ICO Trender - PINKSALE TRENDING BOT")  [![ICO Trender - PINKSALE TRENDING BOT PROXIES CHECKER](https://img.youtube.com/vi/wciYDISqLlo/mqdefault.jpg)](https://www.youtube.com/watch?v=wciYDISqLlo "ICO Trender - PINKSALE TRENDING BOT PROXIES CHECKER")
 
 
 ## Contact
